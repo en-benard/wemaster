@@ -6,9 +6,7 @@ categories:
 - package
 date: "2019-07-03"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Biology is determined to provide domain knowledge of species. In most cases, species form biological [taxon](https://en.wikipedia.org/wiki/Taxon) whose individuals occupy varying geographical extents. Species distribution models exploits the spatial patterns from the arrangement of these taxon and try to associate habitat occupancy and prevailing conditions.
 layout: single
 subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
   always moves faster than light.
